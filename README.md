@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Luong Thanh Binh
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning data science & artificial intelligence
+- 👋 Hi, I’m Luong Thanh Binh.
+- 👀 I’m interested in video games.
+- 🌱 I’m currently learning data science & artificial intelligence.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: click on the facebook link.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i'm a newbie.
 
 <!---
 b1nhluong/b1nhluong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
