@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luong Thanh Binh.
 - 👀 I’m interested in video games.
 - 🌱 I’m currently learning data science & artificial intelligence.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me: click on the facebook link.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i'm a newbie.
